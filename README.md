@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malikgaurav626
 - 👀 I’m interested in just straight up coding
-- 🌱 I’m currently learning c++ programming
+- 🌱 I’m currently learning JavaScript and It's frameworks
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me just dm me on insta (id: malik_aryan_58) or email me at malikgaurav626@gmail.com
 
